@@ -1,4 +1,4 @@
-package synchronizedThreadTest;
+package thread.synchronizedThreadTest;
 
 public class Contribution {
     private static int amount = 0;

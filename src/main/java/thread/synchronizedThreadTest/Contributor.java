@@ -1,4 +1,4 @@
-package synchronizedThreadTest;
+package thread.synchronizedThreadTest;
 
 public class Contributor extends Thread {
     private Contribution myContribution;
